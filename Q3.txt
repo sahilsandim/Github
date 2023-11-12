@@ -1,0 +1,11 @@
+.gitignore is a configuration files that are 
+ignored by git. its primary purpose is to prevent 
+certain files from being tracked and this files doesn't become the part
+of repository until it is defined.
+-->Maintaining a repository 
+-->Security and privacy
+-->Collaboration
+-->Customization
+-->Through this developers can share beneficial 
+   code in given repositories and can make a great choice 
+   about what to include in current directory 

@@ -1,0 +1,20 @@
+Git is a distributed version of control system
+that allows developers to collaborate on a project and 
+also to make a chnages in the workflow.
+
+1] Staging area:-
+   This is an intermediate area between working and git repository
+   It's a place where ypu can prepare and make a changes in a repository.
+   The staging area exclude changes in  next commit .
+
+2] Working Directory:-
+   Working directory is also known as working tree in git.
+   This is a directory which is copied from git repository.
+   This directory contains the file of the projects
+   when youn clone a repository or create new repository
+   working directory reflects specific branch or commit.
+
+3] Repository:-
+   Git is collection of files and metadata 
+   which is stored either local[on your local machine]
+   or remote[hosted a server]

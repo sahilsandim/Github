@@ -1,0 +1,31 @@
+Github is an hosting web based platform which is used
+to track changes and to create branches in the projects
+github is built on top of git.
+-->There are diff. method by github collaborate
+   with version control system:-
+   1]Branching and merging
+   2]by reviewing the code
+   3]communication
+   4]Fork:-Fork the repositories and make the copy of the project
+          we can make changes in the fork and then we can pull this repositries  
+          in our github by pull request.
+   5]Collaborative permission:- Github repositories owners manage permissions.
+                                owners can give access of either read-only/ read-write
+                                to control the viewers and contribuition to the project.
+
+
+--> Other platforms like github
+   1] Gitlab :- gitlab is web based platform 
+                which provide service of SCM[Source code management]
+                it works on both hosted and cloud platforms. it can be use 
+                to replicate the use of github.
+    
+   2]Beanstalk:- Beanstalk is a version control platform
+                 which is based on AWS it helps in features like
+                 merging,branching and deployment of code 
+                 in user friendly manner just like Github 
+                 repositeries.
+
+   3]Bitbucket:-    Git repository management system it supports git as well as
+                    mercurial, it offers features like code review, and continuous 
+                    integreation betweeen code features. 

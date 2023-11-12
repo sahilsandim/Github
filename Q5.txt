@@ -1,0 +1,18 @@
+There are simply 4 steps to contribute open source project on github
+1--> First analyse basic github command and work upon text files readme.md
+    Or how to fork the current repositories.
+2-->Join any community  to gain knowledge about
+    certain things related to open source project it is not necessary that you have
+    to be from coding background for join the community.
+3-->There are basically three type of to contribute in open source project
+    Author:- The person who created project 
+    contribuitors:-Person who contribute to project.
+4-->Few ways by which we can contribute to project:-
+    1]Submit a big fix.
+    2]Add a new features.
+    3]Update a documentation.
+    4]Give suggestion to an answers.
+    5]Review code
+    6]By Creating a new issue.
+    7]Create a changes in an repository using commit.
+    8]create a pull request.

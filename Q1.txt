@@ -1,0 +1,14 @@
+What is Version control system?
+Version control is a tool to track a changes in files,documents,and websites
+also it helps in coordinating work with multiple developers.
+-->This tool is used to keep the directories,project organised.
+-->Involved in large software projects.
+-->It helps to store large files and helps to track changes in the repositories
+
+Why it is helpful in software development?
+--> Version control system are useful when people need quick 
+    way to find the recent file and to make a changes in the directory
+    by this method deveploers have freedom to work on each individual 
+    project.without version control system the hierarchy of files will be disrupted 
+    that's whu [vcs-Version control system] plays important role in  programmers life
+    without messing any directory the work can be done fluently.
